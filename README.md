@@ -12,6 +12,11 @@ using resursion to sove merge sort
 1. 拆分: 將list拆分成1:N N:-1 的兩組list，一路拆分到當元素剩下一個時停止
 2. 排序合併: 建立一個新的result list，開始比較兩個list的元素大小進行合併。
 
+bottom up 
+
+1. 直接將list差分成獨立的元素
+2. 排序合併
+
 ### 舉例：
 
 [1,3,5,2,6,4,7]
